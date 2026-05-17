@@ -1,2 +1,2 @@
 # Master's Thesis - Sagar Kumar
-In this Master's Thesis respository, you will find three items. The folder "data" contains sample data used for testing purposes. All relevant source code can be found in "code.ipynb" and the thesis report is attached as a PDF.
+In this Master's Thesis respository, you will find three items. The folder "data" contains sample data used for testing purposes. All relevant source code can be found in "code.ipynb" and the thesis report is attached as a PDF. Please note that the graphs in the code might differ than the ones in the report because this GitHub repo only contains sample data and not the entire data-set due to the 25MB data limit on file uploads.
